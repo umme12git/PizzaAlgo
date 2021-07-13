@@ -1,0 +1,9 @@
+Decide on the pizaa place to order from
+Decide on the type of pizza 
+Place the order
+Decide on paying for pizza
+    a.  By phone
+    b.  At door
+Greet driver
+Pay driver if 4b was chosen
+

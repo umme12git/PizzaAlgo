@@ -6,5 +6,5 @@ Decide on paying for pizza
     b.  At door
 Greet driver
 Pay driver if 4b was chosen
-Pay tips to driver
+Pay tips to driver if want to
 
